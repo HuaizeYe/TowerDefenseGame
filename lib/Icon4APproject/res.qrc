@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>A1.png</file>
+        <file>A2.png</file>
+        <file>A3.png</file>
+        <file>B1.png</file>
+        <file>B2.png</file>
+        <file>B3.png</file>
+    </qresource>
+    <qresource prefix="/n"/>
+</RCC>
